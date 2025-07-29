@@ -1,0 +1,14 @@
+E:\Programacion\C#\Puerto\MiPuerto\bin\Debug\net9.0\MiPuerto.exe
+E:\Programacion\C#\Puerto\MiPuerto\bin\Debug\net9.0\MiPuerto.deps.json
+E:\Programacion\C#\Puerto\MiPuerto\bin\Debug\net9.0\MiPuerto.runtimeconfig.json
+E:\Programacion\C#\Puerto\MiPuerto\bin\Debug\net9.0\MiPuerto.dll
+E:\Programacion\C#\Puerto\MiPuerto\bin\Debug\net9.0\MiPuerto.pdb
+E:\Programacion\C#\Puerto\MiPuerto\obj\Debug\net9.0\MiPuerto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\C#\Puerto\MiPuerto\obj\Debug\net9.0\MiPuerto.AssemblyInfoInputs.cache
+E:\Programacion\C#\Puerto\MiPuerto\obj\Debug\net9.0\MiPuerto.AssemblyInfo.cs
+E:\Programacion\C#\Puerto\MiPuerto\obj\Debug\net9.0\MiPuerto.csproj.CoreCompileInputs.cache
+E:\Programacion\C#\Puerto\MiPuerto\obj\Debug\net9.0\MiPuerto.dll
+E:\Programacion\C#\Puerto\MiPuerto\obj\Debug\net9.0\refint\MiPuerto.dll
+E:\Programacion\C#\Puerto\MiPuerto\obj\Debug\net9.0\MiPuerto.pdb
+E:\Programacion\C#\Puerto\MiPuerto\obj\Debug\net9.0\MiPuerto.genruntimeconfig.cache
+E:\Programacion\C#\Puerto\MiPuerto\obj\Debug\net9.0\ref\MiPuerto.dll
