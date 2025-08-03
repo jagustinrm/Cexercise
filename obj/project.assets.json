@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Agustin\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programacion\\C#\\Puerto\\MiPuerto\\MiPuerto.csproj",
+      "projectUniqueName": "D:\\Projects\\Cexercise\\MiPuerto.csproj",
       "projectName": "MiPuerto",
-      "projectPath": "E:\\Programacion\\C#\\Puerto\\MiPuerto\\MiPuerto.csproj",
-      "packagesPath": "C:\\Users\\Agustin\\.nuget\\packages\\",
-      "outputPath": "E:\\Programacion\\C#\\Puerto\\MiPuerto\\obj\\",
+      "projectPath": "D:\\Projects\\Cexercise\\MiPuerto.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Cexercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Agustin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
