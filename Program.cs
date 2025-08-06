@@ -18,15 +18,7 @@ class Program
         mc.PortNumber = PortNumber;
         mc.AddShip(new CargoShip { Name = "Cargo1", YearBuilt = 2000, Brand = "BrandA", Type = "Cargo", MaxTons = 500 });
         mc.AddShip(new CargoShip { Name = "Cargo2", YearBuilt = 2005, Brand = "BrandB", Type = "Cargo", MaxTons = 1000 });
-        Console.WriteLine("Name of the port:");
-        string portName = "Puerto1";
-        int PortNumber = 1234;
-
-        Port mc = new Port(portName);
-        mc.PortNumber = PortNumber;
-        mc.AddShip(new CargoShip { Name = "Cargo1", YearBuilt = 2000, Brand = "BrandA", Type = "Cargo", MaxTons = 500 });
-        mc.AddShip(new CargoShip { Name = "Cargo2", YearBuilt = 2005, Brand = "BrandB", Type = "Cargo", MaxTons = 1000 });
-        mc.PrintInfo();
+   
         string res = "0";
         Console.WriteLine("Welcome to the port management system!");
         while (res != "5")
