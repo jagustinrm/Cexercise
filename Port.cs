@@ -19,6 +19,16 @@ namespace Models.Ports
         {
             Name = name;
             Ships = new List<Ship>();
+            Name = name;
+            Ships = new List<Ship>();
+        }
+        public void PrintInfo()
+        {
+            Console.WriteLine($"Port name: {Name}");
+            Console.WriteLine($"Port number: {PortNumber}");
+            Console.WriteLine("Ships in the port: " + Ships.Count);
+            Console.WriteLine("Total load capacity: " + GetTotalLoadCapacity() + " tons");
+
         }
         public void PrintInfo()
         {
@@ -84,9 +94,12 @@ namespace Models.Ships {
         public string Name { get; set; }
 
         public int YearBuilt { get; set; }
+        public int YearBuilt { get; set; }
 
         public string Brand { get; set; }
+        public string Brand { get; set; }
 
+        public string Type { get; set; }
         public string Type { get; set; }
 
         public abstract int GetLoadCapacity();
